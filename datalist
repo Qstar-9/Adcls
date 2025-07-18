@@ -1,0 +1,41 @@
+{'Hi-hat': 300,            # 踩镲
+ 'Laughter': 300,          # 笑声
+ 'Shatter': 300,           # 破碎声
+ 'Applause': 300,          # 掌声
+ 'Squeak': 300,            # 吱吱声
+ 'Acoustic_guitar': 300,   # 木吉他
+ 'Bass_drum': 300,         # 大鼓
+ 'Saxophone': 300,         # 萨克斯
+ 'Flute': 300,             # 长笛
+ 'Double_bass': 300,       # 低音提琴/倍大提琴
+ 'Tearing': 300,           # 撕裂声
+ 'Fart': 300,              # 放屁声
+ 'Clarinet': 300,          # 单簧管
+ 'Fireworks': 300,         # 烟花
+ 'Trumpet': 300,           # 小号
+ 'Violin_or_fiddle': 300,  # 小提琴
+ 'Cello': 300,             # 大提琴
+ 'Snare_drum': 300,        # 小军鼓
+ 'Oboe': 299,              # 双簧管
+ 'Gong': 292,              # 锣
+ 'Knock': 279,             # 敲击声
+ 'Writing': 270,           # 书写声
+ 'Cough': 243,             # 咳嗽
+ 'Bark': 239,              # 狗叫声
+ 'Tambourine': 221,        # 铃鼓
+ 'Burping_or_eructation': 210, # 打嗝声
+ 'Cowbell': 191,           # 牛铃
+ 'Harmonica': 165,         # 口琴
+ 'Drawer_open_or_close': 158, # 抽屉开关声
+ 'Meow': 155,              # 猫叫声
+ 'Electric_piano': 150,    # 电钢琴
+ 'Gunshot_or_gunfire': 147,# 枪声/枪炮声
+ 'Microwave_oven': 146,    # 微波炉
+ 'Keys_jangling': 139,     # 钥匙叮当声
+ 'Telephone': 120,         # 电话声
+ 'Computer_keyboard': 119, # 电脑键盘声
+ 'Finger_snapping': 117,   # 打响指
+ 'Chime': 115,             # 钟声/叮当声
+ 'Bus': 109,               # 巴士/公交车
+ 'Scissors': 95,           # 剪刀声
+ 'Glockenspiel': 94}       # 钟琴 (木琴的一种)
